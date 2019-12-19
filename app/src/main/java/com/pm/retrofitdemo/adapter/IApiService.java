@@ -1,4 +1,4 @@
-package com.pm.retrofitdemo.interfaz;
+package com.pm.retrofitdemo.adapter;
 
 import com.pm.retrofitdemo.model.User;
 
@@ -6,7 +6,6 @@ import java.util.List;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
-import retrofit2.http.Path;
 
 
 /***

@@ -4,9 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.pm.retrofitdemo.interfaz.IApiService;
+import com.pm.retrofitdemo.adapter.IApiService;
 import com.pm.retrofitdemo.model.User;
 
 import java.util.List;
